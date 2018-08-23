@@ -7,6 +7,8 @@ Puedes obtener ayuda sobre problemas con el Cliente/Servidor en la [Wiki](https:
 ## Aviso
 Este repositorio se basa en el de [Jawesome99](https://github.com/Jawesome99/IW4x). La diferencia es que el mio esta en Español, puede estar desactualizado (si él agrega algo, no lo tendré yo aquí al instante) e incluso puede contener cosas extras (o que falten).
 
+Si necesitas ir al repositorio de Jawesome99, pero no sabes Inglés, puedes usar [DeepL](https://www.deepl.com/translator) como Traductor de Inglés a Español.
+
 ## Enlaces de IW4x
 - Sitio web de IW4x
 ```
