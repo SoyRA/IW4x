@@ -11,6 +11,6 @@ Si necesitas ir al repositorio de Jawesome99, pero no sabes Inglés, puedes usar
 
 ## Enlaces de IW4x
 - Sitio web de IW4x: [http://iw4xcachep26muba.onion/](http://iw4xcachep26muba.onion/) (Requiere [Tor](https://www.torproject.org/)).
-  - No requiere Tor: [.onion.rip](http://iw4xcachep26muba.onion.rip/), [.onion.link](http://iw4xcachep26muba.onion.link/), [.onion.cab](http://iw4xcachep26muba.onion.cab/), [.onion.guide](http://iw4xcachep26muba.onion.guide/) o [.onion.to](http://iw4xcachep26muba.onion.to/).
+  - No requiere Tor: [.hiddenservice.net](https://iw4xcachep26muba.hiddenservice.net), [.onion.cab](https://iw4xcachep26muba.onion.cab), [.onion.casa](https://iw4xcachep26muba.onion.casa), [.onion.guide](https://iw4xcachep26muba.onion.guide), [.onion.link](https://iw4xcachep26muba.onion.link), [.onion.nu](https://iw4xcachep26muba.onion.nu), [.onion.pet](https://iw4xcachep26muba.onion.pet), [.onion.rip](https://iw4xcachep26muba.onion.rip), [.onion.sh](https://iw4xcachep26muba.onion.sh), [.onion.to](https://iw4xcachep26muba.onion.to), [.onion.ws](https://iw4xcachep26muba.onion.ws) o [.tor2web.xyz](https://iw4xcachep26muba.tor2web.xyz)
 - [IW4x's Tumblr](https://iw4x.tumblr.com/) - Tumblr de IW4x, que puede contener algunas guías.
 - [IW4x's Discord](https://discord.gg/sKeVmR3) - Discord de IW4x.
