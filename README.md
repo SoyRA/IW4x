@@ -73,6 +73,7 @@
   - [¿Por qué no puedo grabar usando OBS, FRAPS, Dxtory, etc?](../../wiki/Preguntas-frecuentes#por-qu%C3%A9-no-puedo-grabar-usando-obs-fraps-dxtory-etc)
 - [Enlaces de IW4x](#enlaces-de-iw4x)
 - [Enlaces importantes de CoD: MW 2](#enlaces-importantes-de-cod-mw-2)
+- [Multimedia](#multimedia)
 
 ## Enlaces de IW4x
 **[`^        VOLVER ARRIBA        ^`](#tabla-de-contenidos)**
@@ -88,3 +89,13 @@
 - [Discusiones](https://steamcommunity.com/app/10180/discussions/) ([MP](https://steamcommunity.com/app/10190/discussions/))
 - [Guías](https://steamcommunity.com/app/10180/guides/) ([MP](https://steamcommunity.com/app/10190/guides/))
 - [PCGamingWiki](https://pcgamingwiki.com/wiki/Call_of_Duty:_Modern_Warfare_2)
+
+## Multimedia
+**[`^        VOLVER ARRIBA        ^`](#tabla-de-contenidos)**
+
+| **Vídeos** | **Vídeos** |
+|:----------:|:----------:|
+| <p align="center"><a href="https://www.youtube.com/watch?v=sdt_aqQ3myQ"><img src="https://img.youtube.com/vi/sdt_aqQ3myQ/maxresdefault.jpg" alt="YT-Video-01" width="426" height="240"></a><br>Primer mapa personalizado | <p align="center"><a href="https://www.youtube.com/watch?v=_Gi44C_Em9E"><img src="https://img.youtube.com/vi/_Gi44C_Em9E/maxresdefault.jpg" alt="YT-Video-01" width="426" height="240"></a><br>Mod Tools |
+| **Imágenes** | **Imágenes** |
+| <p align="center"><img src="Recursos/IW4x-01.png" alt="IW4x-01.png" width="426" height="240"><br>Menú Principal | <p align="center"><img src="Recursos/IW4x-02.png" alt="IW4x-02.png" width="426" height="240"><br>Lista de Servidores |
+| <p align="center"><img src="Recursos/IW4x-03.png" alt="IW4x-03.png" width="426" height="240"><br> Lista de Amigos | <p align="center"><img src="Recursos/IW4x-04.png" alt="IW4x-04.png" width="426" height="240"><br> Modo Teatro |
