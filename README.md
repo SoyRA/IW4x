@@ -18,6 +18,7 @@
 
 ## Aviso
 - Este repositorio no contiene ningún código de IW4x, tan solo proporciona soporte y ayuda a los usuarios de habla hispana.
+  - El 17/09/2019, IW4x ha decidido lanzar su código para que todos puedan contribuir con el proyecto! Visita [su repositorio](https://github.com/IW4x/iw4x-client) si esto te interesa. También Plutonium ha decidido hacer lo mismo con su [ZoneTool](https://github.com/ZoneTool/zonetool)!
 - Este repositorio se basa en el de [Jawesome99](https://github.com/Jawesome99/IW4x).
   - La diferencia es que el mio esta en Español, puede estar desactualizado (si él agrega algo, no lo tendré yo aquí al instante) e incluso puede contener cosas extras (o que falten).
     - Si necesitas ir al repositorio de Jawesome99, pero no sabes Inglés, puedes usar [DeepL](https://www.deepl.com/translator) como Traductor de Inglés a Español.
