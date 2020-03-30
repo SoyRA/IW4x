@@ -19,9 +19,9 @@
 ## Aviso
 - Este repositorio no contiene ningún código de IW4x, tan solo proporciona soporte y ayuda a los usuarios de habla hispana.
   - El 17/09/2019, IW4x ha decidido lanzar su código para que todos puedan contribuir con el proyecto! Visita [su repositorio](https://github.com/IW4x/iw4x-client) si esto te interesa. También Plutonium ha decidido hacer lo mismo con su [ZoneTool](https://github.com/ZoneTool/zonetool)!
-- Este repositorio se basa en el de [Jawesome99](https://github.com/Jawesome99/IW4x).
+- Este repositorio se basa en el de [Jawesome99](https://github.com/Jawesome99/IW4x) / en el [Nuevo Sitio de IW4x](#enlaces-de-iw4x).
   - La diferencia es que el mio esta en Español, puede estar desactualizado (si él agrega algo, no lo tendré yo aquí al instante) e incluso puede contener cosas extras (o que falten).
-    - Si necesitas ir al repositorio de Jawesome99, pero no sabes Inglés, puedes usar [DeepL](https://www.deepl.com/translator) como Traductor de Inglés a Español.
+    - Si necesitas ir al repositorio de Jawesome99 o al nuevo sitio de IW4x, pero no sabes Inglés, puedes usar [DeepL](https://www.deepl.com/translator) como Traductor de Inglés a Español.
 
 ## Tabla de Contenidos
 - [Inicio](../../wiki)
@@ -78,7 +78,8 @@
 
 ## Enlaces de IW4x
 **[`^        VOLVER ARRIBA        ^`](#tabla-de-contenidos)**
-- Sitio web de IW4x: [http://iw4xcachep26muba.onion/](http://iw4xcachep26muba.onion/) (Requiere [Tor](https://www.torproject.org/)).
+- [IW4x's New Website](https://iw4x.org/) - Nuevo sitio de IW4x, arriba a la derecha podrás seleccionar el Idioma.
+- [IW4x's Old Website](http://iw4xcachep26muba.onion/) - El viejo sitio de IW4x (Requiere [Tor](https://www.torproject.org/)).
   - No requiere Tor: [.hiddenservice.net](https://iw4xcachep26muba.hiddenservice.net), [.onion.cab](https://iw4xcachep26muba.onion.cab), [.onion.casa](https://iw4xcachep26muba.onion.casa), [.onion.guide](https://iw4xcachep26muba.onion.guide), [.onion.link](https://iw4xcachep26muba.onion.link), [.onion.nu](https://iw4xcachep26muba.onion.nu), [.onion.pet](https://iw4xcachep26muba.onion.pet), [.onion.rip](https://iw4xcachep26muba.onion.rip), [.onion.sh](https://iw4xcachep26muba.onion.sh), [.onion.to](https://iw4xcachep26muba.onion.to), [.onion.ws](https://iw4xcachep26muba.onion.ws) o [.tor2web.xyz](https://iw4xcachep26muba.tor2web.xyz)
 - [IW4x's Tumblr](https://iw4x.tumblr.com/) - Tumblr de IW4x, que puede contener algunas guías.
 - [IW4x's Discord](https://discord.gg/sKeVmR3) - Discord de IW4x.
