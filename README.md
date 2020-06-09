@@ -83,6 +83,7 @@
   - [Couldn't load image 'XXX'](../../wiki/Solución-de-Problemas#couldnt-load-image-xxx)
   - [Entry Point Not Found - (DirectSound)](../../wiki/Solución-de-Problemas#entry-point-not-found---directsound)
   - [Zone Version XXX is not supported](../../wiki/Solución-de-Problemas#zone-version-xxx-is-not-supported)
+  - [Fatal Error con Steam](../../wiki/Solución-de-Problemas#fatal-error-con-steam)
   - [Fatal Error en Servidor Dedicado](../../wiki/Solución-de-Problemas#fatal-error-en-servidor-dedicado)
   - [Fatal Error en Windows 7](../../wiki/Solución-de-Problemas#fatal-error-en-windows-7)
   - [Fatal Error 0xC0000005](../../wiki/Solución-de-Problemas#fatal-error-0xc0000005)
