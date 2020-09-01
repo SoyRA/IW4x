@@ -22,6 +22,12 @@
 - Este repositorio se basa en el de [Jawesome99](https://github.com/Jawesome99/IW4x) y en el [Nuevo Sitio de IW4x](#enlaces-de-iw4x).
   - Si necesitas ir al repositorio de Jawesome99 o al nuevo sitio de IW4x, pero no sabes Inglés, puedes usar [DeepL](https://www.deepl.com/translator) como Traductor de Inglés a Español.
 
+## :wave: Mi Retiro
+- Ya no haré más nada en mi Repositorio / Wiki, ni tampoco daré soporte alguno.
+- Si quieres continuar con lo que empecé, puedes hacerle un **Fork** a mi Repositorio y Wiki.
+  - Obviamente puedes traducir todo a otro idioma y continuar desde ahí.
+    - Tan solo no olvides de agregarme a los créditos.
+
 ## Tabla de Contenidos
 - [Inicio](../../wiki)
   - [Características principales](../../wiki#caracter%C3%ADsticas-principales)
